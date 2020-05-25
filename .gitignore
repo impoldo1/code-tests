@@ -27,6 +27,6 @@ hs_err_pid*
 /.idea/
 
 # eclipse
-.project
-.classpath
-.workspace
+/.project/
+/.classpath/
+/.workspace/
