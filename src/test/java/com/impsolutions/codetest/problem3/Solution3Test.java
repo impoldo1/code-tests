@@ -1,10 +1,16 @@
 package com.impsolutions.codetest.problem3;
 
+import org.junit.Test;
+
 /**
- * TODO
+ * Solution3 junit tests go here
  */
 public class Solution3Test {
 	
-	// junit tests go here
+	@Test
+	public void test() {
+		final Solution3 solution3 = new Solution3();
+		// ...
+	}
 	
 }
