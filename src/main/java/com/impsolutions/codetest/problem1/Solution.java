@@ -11,6 +11,9 @@ public class Solution {
 	private final Logger logger = LoggerFactory.getLogger(getClass());
 	
 	public Solution() {
-		logger.info("Creating a Solution3 instance");
+		logger.info("Creating a Solution instance");
 	}
+	
+	// add your implementation method here
+	
 }
