@@ -1,4 +1,4 @@
-package com.impsolutions.codetest.problem3;
+package com.impsolutions.codetest.problem1;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,11 +6,11 @@ import org.slf4j.LoggerFactory;
 /**
  * TODO
  */
-public class Solution3 {
+public class Solution {
 	
 	private final Logger logger = LoggerFactory.getLogger(getClass());
 	
-	public Solution3() {
+	public Solution() {
 		logger.info("Creating a Solution3 instance");
 	}
 }
